@@ -5,3 +5,10 @@ License: GPL (>= 2)
 MD5sum: 96a3a1f4d859b60fc83066f66e9d4761
 NeedsCompilation: no
 
+Package: hurricaneexposuredata
+Version: 0.0.0.9000
+Depends: R (>= 2.10)
+License: GPL-2
+MD5sum: 67d1d6d00763e927db098e2555af926c
+NeedsCompilation: no
+

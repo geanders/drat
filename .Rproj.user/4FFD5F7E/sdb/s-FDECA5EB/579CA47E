@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "Package: hurricaneexposuredata\nVersion: 0.0.0.9000\nDepends: R (>= 2.10)\nLicense: GPL-2\nMD5sum: 67d1d6d00763e927db098e2555af926c\nNeedsCompilation: no\n\n",
+    "created" : 1484589313025.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "307191562",
+    "id" : "579CA47E",
+    "lastKnownWriteTime" : 1484589057,
+    "last_content_update" : 1484589342052,
+    "path" : "~/r_projects/drat/src/contrib/PACKAGES",
+    "project_path" : "src/contrib/PACKAGES",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}

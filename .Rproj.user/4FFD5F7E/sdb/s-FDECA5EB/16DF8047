@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "Package: drat\nVersion: 0.0.4\nSuggests: git2r, knitr\nLicense: GPL (>= 2)\nMD5sum: 5d5538cd26ff12889244a9aebcceae48\n\n",
+    "created" : 1484589415899.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "244676648",
+    "id" : "16DF8047",
+    "lastKnownWriteTime" : 1484589057,
+    "last_content_update" : 1484589057,
+    "path" : "~/r_projects/drat/bin/macosx/contrib/3.2/PACKAGES",
+    "project_path" : "bin/macosx/contrib/3.2/PACKAGES",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "text"
+}

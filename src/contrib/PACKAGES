@@ -1,7 +1,7 @@
 Package: hurricaneexposuredata
-Version: 0.0.0.9000
+Version: 0.0.1
 Depends: R (>= 2.10)
 License: GPL-2
-MD5sum: 67d1d6d00763e927db098e2555af926c
-NeedsCompilation: no
+MD5sum: 250e5f93fbf44f5ecac8ff4a4c437b17
+NeedsCompilation: yes
 

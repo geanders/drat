@@ -2,4 +2,5 @@
 .Rhistory
 .RData
 testpackages/
+.DS_Store
 
